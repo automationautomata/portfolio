@@ -4,7 +4,7 @@
 **Стек:** *Pyhton, Go, С*
 
 ## Проекты
-[selling automatization](https://github.com/automationautomata/selling-project) – API для ускорения публикации товаров на маркетплейсы: пользователь может узнать название и категорию товара по штрих-коду, найти информацию о товаре и опубликовать объявление о продаже. Стек: Python (FastAPI + Dishka + SQLAlchemy),  Docker; в качестве системы поиска информации о товаре используется Perplexity. 
+[selling automatization](https://github.com/automationautomata/selling-project) – позволяет пользователю: по-штрихкоду или названию получить предзаполненные метаданные товара (имя, описание, категория, изображения и пр.), посмотреть аналоги/оценки, и затем — автоматически опубликовать на разные площадки. Стек: Python (FastAPI + Dishka + SQLAlchemy), Docker; в качестве системы поиска используется Perplexity. 
 
 [automata-builder](https://github.com/automationautomata/automata-builder) – десктопное приложение для создания и демонстрации работы автоматов (КДА) – позволяет рисовать их диаграммы переходов, проверять на корректность и рисовать графики.  Стек: Python + PyQt6.
 
@@ -15,4 +15,5 @@
 *****
 
 Еще есть [змейка](https://github.com/automationautomata/SnakeGame) для DOS.
+
 
